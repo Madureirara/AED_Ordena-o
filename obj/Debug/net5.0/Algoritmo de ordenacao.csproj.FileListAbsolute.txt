@@ -1,0 +1,16 @@
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\bin\Debug\net5.0\Algoritmo de ordenacao.exe
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\bin\Debug\net5.0\Algoritmo de ordenacao.deps.json
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\bin\Debug\net5.0\Algoritmo de ordenacao.runtimeconfig.json
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\bin\Debug\net5.0\Algoritmo de ordenacao.runtimeconfig.dev.json
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\bin\Debug\net5.0\Algoritmo de ordenacao.dll
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\bin\Debug\net5.0\ref\Algoritmo de ordenacao.dll
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\bin\Debug\net5.0\Algoritmo de ordenacao.pdb
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\obj\Debug\net5.0\Algoritmo de ordenacao.csproj.AssemblyReference.cache
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\obj\Debug\net5.0\Algoritmo de ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\obj\Debug\net5.0\Algoritmo de ordenacao.AssemblyInfoInputs.cache
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\obj\Debug\net5.0\Algoritmo de ordenacao.AssemblyInfo.cs
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\obj\Debug\net5.0\Algoritmo de ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\obj\Debug\net5.0\Algoritmo de ordenacao.dll
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\obj\Debug\net5.0\ref\Algoritmo de ordenacao.dll
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\obj\Debug\net5.0\Algoritmo de ordenacao.pdb
+C:\Users\1209912\source\repos\Algoritmo de ordenacao\obj\Debug\net5.0\Algoritmo de ordenacao.genruntimeconfig.cache
