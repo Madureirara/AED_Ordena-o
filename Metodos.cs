@@ -52,7 +52,7 @@ namespace Algoritmo_de_ordenacao
                 }
             }
         }
-        public void Selection_Sort(int[] vet)
+        public int[] Selection_Sort(int[] vet)
         {
             int min_pos;
             int min_value;
@@ -72,7 +72,9 @@ namespace Algoritmo_de_ordenacao
                 auxiliar = vet[i];
                 vet[i] = vet[min_pos];
                 vet[min_pos] = auxiliar;
+                
             }
+            return vet;
         }
     }
 }

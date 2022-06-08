@@ -17,7 +17,8 @@ namespace Algoritmo_de_ordenacao
             //vetor = metodos.VetorDecrescente(indice);
             //metodos.Imprime(vetor);
             //metodos.Bubble_Sort(vetor2);
-            metodos.Selection_Sort(vetor);
+            metodos.Imprime(metodos.Selection_Sort(vetor2));
+            
         }
     }
 }
